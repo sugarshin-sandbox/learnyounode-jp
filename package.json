@@ -1,0 +1,10 @@
+{
+  "name": "learnyounode-jp",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {
+    "learnyounode-jp": "^1.0.15"
+  },
+  "author": "sugarshin",
+  "license": "MIT"
+}
